@@ -1,0 +1,114 @@
+.nombre
+{
+    text-align: center;   
+    
+    justify-content: space-between;
+
+}
+
+.cabeza
+{
+    
+    display: flex;
+    justify-content: space-between;
+    border: 5px;
+    margin-top: auto;
+    margin-left: 10px;
+    background-color: brown;
+    border-style: solid;
+    height: 150px;
+    width: 150px;
+}
+.frente
+{
+    width: 200px;
+    height: 10px;
+    background-color: brown;
+    margin-top: 30px;
+    
+    border-style: solid ;
+
+}
+.ojo
+{
+   position: fixed ;
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-style: solid ;
+}
+
+.ojo2
+{
+    position: fixed ;
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-style: solid ;
+}
+.boca
+{
+    position: fixed ;
+    width: 70px;
+    height: 10px;
+    background-color: brown;
+    margin-top: 110px;
+    margin-left: 40px;
+    border-style: solid ;
+}
+.cuerpo
+{
+    border: 10px;
+    border: 5px;
+    margin-top: auto;
+    background-color: brown;
+    border-style: solid;
+    height: 300px;
+    width: 170px;
+
+}
+
+.mano
+{
+    border: 10px;
+    border: 5px;
+    margin-top: auto;
+    background-color: brown;
+    border-style: solid;
+    height: 100px;
+    width: 70px;
+}
+.pies
+{
+    border: 10px;
+    border: 5px;
+    margin-top: auto;
+    margin-left: 10px;
+    background-color: brown;
+    border-style: solid;
+    height: 200px;
+    width: 150px;
+
+}
+.soporte
+{
+    border: 10px;
+    border: 5px;
+    margin-top: auto;
+    margin-left: 10px;
+    background-color: brown;
+    border-style: solid;
+    height: 10px;
+    width: 150px;
+}
+
+
+
+
+
+
+
